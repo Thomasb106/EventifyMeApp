@@ -14,5 +14,3 @@ def hello_world():
 if __name__ == '__main__':
     # If true, run the Flask development server with debugging mode turned on.
     app.run(debug=True)
-
-    
