@@ -7,9 +7,9 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/EventifyMeSplash.png",
+      "resizeMode": "contain", 
+      "backgroundColor": "#F0E7DA"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -28,3 +28,4 @@
     }
   }
 }
+
